@@ -3,7 +3,7 @@ public class HeadAndTailRecursion
     public static void main(String[] args)
     {
         System.out.print("Tail Recursion: ");
-        tail("blizzard");
+        //tail("blizzard");
         
         System.out.println("");
         
